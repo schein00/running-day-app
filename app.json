@@ -1,0 +1,12 @@
+{
+  "name": "Running",
+  "displayName": "Running",
+  "expo": {
+    "name": "Running",
+    "slug": "Running",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
